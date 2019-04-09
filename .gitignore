@@ -1,0 +1,11 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.gz
+*.png
+*.tex
+*.log
+*.out
+### VS Code ###
+.vscode/
+
